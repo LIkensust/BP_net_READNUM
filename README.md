@@ -1,2 +1,2 @@
-# NP_net_READNUM
-a npnet to read numbers
+# BP_net_READNUM
+a Bpnet to read numbers
